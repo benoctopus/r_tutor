@@ -1,0 +1,13 @@
+.dl-link {
+  color: gray;
+  border-bottom: solid 1px gray
+}
+
+.dl-link:hover {
+  color: blue;
+  border-color: blue
+}
+
+.base {
+  width: fit-content;
+}
